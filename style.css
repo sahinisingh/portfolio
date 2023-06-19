@@ -279,7 +279,10 @@ section .title::after{
     margin-bottom: 10px;
 }
 .skills .skills-content .left p{
-    text-align: justify;
+    text-align: left;
+}
+.skills .skills-content .left{
+    padding: 30px 30px;
 }
 .skills .skills-content .left a{
     display: inline-block;
@@ -336,9 +339,6 @@ section .title::after{
 .skills-content .right .js::before{
     width: 40%;
 }
-/*.skills-content .right .php::before{
-    width: 50%;
-}*/
 .skills-content .right .sql::before{
     width: 60%;
 }
