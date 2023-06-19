@@ -281,9 +281,6 @@ section .title::after{
 .skills .skills-content .left p{
     text-align: left;
 }
-.skills .skills-content .left{
-    padding: 30px 30px;
-}
 .skills .skills-content .left a{
     display: inline-block;
     background: crimson;
